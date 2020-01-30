@@ -48,7 +48,8 @@ export default {
       password_no_user_info_error: 'Das Passwort basiert auf Benutzerinformationen.',
       password_strength_error: 'Das Passwort ist zu schwach.',
       user_exists: 'Der Nutzer existiert bereits.',
-      username_exists: 'Der Nutzername wird bereits verwendet.'
+      username_exists: 'Der Nutzername wird bereits verwendet.',
+      social_signup_needs_terms_acception: 'Akzeptieren Sie bitte unsere Nutzungsbedingungen.'
     }
   },
   success: {
